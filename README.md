@@ -1,3 +1,7 @@
 Hey everyone,
 
-We made an app that suggests 5 best wines for your preferences. In order to try it download the files and run it on your computer. Have fun :)
+Here is a repository for our project. It contains two folders: Heatmaps and App.
+  -Heatmaps folder contains files showing the distribution of wines based on various criteria on a map.
+  -App folder contains all the files for the app to work. The application suggests 5 best wines for your preferences. 
+  
+  In order to try it, download the files and run it on your computer. Have fun :)
